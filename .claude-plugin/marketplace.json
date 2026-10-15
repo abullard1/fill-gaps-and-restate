@@ -1,0 +1,14 @@
+{
+  "name": "fill-gaps-and-restate",
+  "description": "Say it rough. Get back what you meant. An Agent Skill that turns half-formed thoughts into finished ones",
+  "owner": {
+    "name": "Samuel Ruairí Bullard"
+  },
+  "plugins": [
+    {
+      "name": "fill-gaps-and-restate",
+      "source": "./",
+      "description": "Say it rough. Get back what you meant. An Agent Skill that turns half-formed thoughts into finished ones"
+    }
+  ]
+}

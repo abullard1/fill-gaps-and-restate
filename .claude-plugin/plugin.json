@@ -1,0 +1,17 @@
+{
+  "name": "fill-gaps-and-restate",
+  "version": "1.0.0",
+  "description": "Say it rough. Get back what you meant. An Agent Skill that turns half-formed thoughts into finished ones",
+  "author": {
+    "name": "Samuel Ruairí Bullard"
+  },
+  "repository": "https://github.com/abullard1/fill-gaps-and-restate",
+  "license": "MIT",
+  "keywords": [
+    "writing",
+    "clarity",
+    "articulation",
+    "restate",
+    "thinking"
+  ]
+}
